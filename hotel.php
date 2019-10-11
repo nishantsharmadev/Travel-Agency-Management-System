@@ -184,7 +184,6 @@
 
               // connect to the database
               $db = mysqli_connect('localhost', 'root', '', 'travle');
-             
 
               if (isset($_POST['sub_pkg'])) {
                   
